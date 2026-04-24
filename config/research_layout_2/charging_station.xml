@@ -1,0 +1,9 @@
+<root><charging_station>
+        <cstation><id>1</id><pt><x>28</x><y>21</y></pt></cstation>
+        <cstation><id>2</id><pt><x>28</x><y>23</y></pt></cstation>
+        <cstation><id>3</id><pt><x>29</x><y>23</y></pt></cstation>
+		<cstation><id>4</id><pt><x>31</x><y>23</y></pt></cstation>
+        <cstation><id>5</id><pt><x>29</x><y>21</y></pt></cstation>
+		<cstation><id>6</id><pt><x>31</x><y>21</y></pt></cstation>
+      </charging_station>
+</root>

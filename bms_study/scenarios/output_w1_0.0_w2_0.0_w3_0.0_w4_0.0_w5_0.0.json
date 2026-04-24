@@ -1,0 +1,7 @@
+{
+    "data_processing_type": "calc_consumed_energy_and_demand",
+    "file_locations": [
+        "./scenarios/comment/goal_programming_output_rb_nc_6_25_80_.csv",
+        "./scenarios/comment/scenario_1_rule_based_nc_6_25_80_.csv"
+    ]
+}

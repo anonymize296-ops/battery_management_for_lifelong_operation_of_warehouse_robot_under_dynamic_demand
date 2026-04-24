@@ -1,0 +1,8 @@
+{
+  "plot_type": "triangular_not_achievable",
+  "plot_data_1": "./output/scenario_2_trapezoidal_achievable_partial.csv",
+  "plot_data_2": "./output/scenario_1_milp/scenario_2_bcs_trapezoidal_achievable_partial.csv",
+  "plot_data_3": "",
+  "plot_data_4": "",
+  "plot_data_5": ""
+}

@@ -1,0 +1,12 @@
+<root>
+<inbound_station>
+    <inbound><id>318</id><pt><x>3</x><y>18</y></pt></inbound>
+    <inbound><id>618</id><pt><x>6</x><y>18</y></pt></inbound>
+    <inbound><id>354</id><pt><x>35</x><y>4</y></pt></inbound>
+</inbound_station>
+<Outbound_station>
+    <outbound><id>318</id><pt><x>3</x><y>18</y></pt></outbound>
+    <outbound><id>618</id><pt><x>6</x><y>18</y></pt></outbound>
+    <outbound><id>357</id><pt><x>35</x><y>7</y></pt></outbound>
+    </Outbound_station>
+    <Task_Station /></root>

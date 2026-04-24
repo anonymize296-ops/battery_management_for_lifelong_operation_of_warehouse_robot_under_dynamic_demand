@@ -1,0 +1,30 @@
+<root><waitspot>
+		<!-- <spot><id>22578</id><pt><x>1</x><y>10</y></pt></spot> -->
+            <!-- <spot><id>21846</id><pt><x>1</x><y>7</y></pt></spot>
+            <spot><id>21114</id><pt><x>1</x><y>4</y></pt></spot>
+            <spot><id>21382</id><pt><x>1</x><y>1</y></pt></spot>
+            <spot><id>1011</id><pt><x>3</x><y>13</y></pt></spot>
+            <spot><id>1002</id><pt><x>3</x><y>9</y></pt></spot> -->
+            <!-- <spot><id>1003</id><pt><x>3</x><y>9</y></pt></spot> -->
+            <spot><id>1004</id><pt><x>3</x><y>1</y></pt></spot>
+            <spot><id>1047</id><pt><x>8</x><y>1</y></pt></spot>
+            <spot><id>1038</id><pt><x>8</x><y>1</y></pt></spot>
+            <spot><id>1039</id><pt><x>8</x><y>1</y></pt></spot>
+            <spot><id>1095</id><pt><x>13</x><y>1</y></pt></spot>
+            <spot><id>1086</id><pt><x>13</x><y>1</y></pt></spot>
+            <spot><id>1087</id><pt><x>13</x><y>1</y></pt></spot>
+            <spot><id>1142</id><pt><x>18</x><y>1</y></pt></spot>
+            <spot><id>1133</id><pt><x>18</x><y>1</y></pt></spot>
+            <spot><id>1134</id><pt><x>18</x><y>1</y></pt></spot>
+            <spot><id>1191</id><pt><x>23</x><y>1</y></pt></spot>
+            <spot><id>1182</id><pt><x>23</x><y>1</y></pt></spot>
+            <spot><id>1183</id><pt><x>23</x><y>1</y></pt></spot>
+            <spot><id>1239</id><pt><x>28</x><y>1</y></pt></spot>
+            <spot><id>1230</id><pt><x>28</x><y>1</y></pt></spot>
+            <spot><id>1231</id><pt><x>28</x><y>1</y></pt></spot>
+            <spot><id>1287</id><pt><x>33</x><y>1</y></pt></spot>
+            <spot><id>1278</id><pt><x>33</x><y>1</y></pt></spot>
+            <spot><id>1279</id><pt><x>33</x><y>1</y></pt></spot>
+
+      </waitspot>
+</root>
