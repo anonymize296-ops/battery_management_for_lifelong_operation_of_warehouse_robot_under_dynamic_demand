@@ -1,0 +1,363 @@
+1 [0, 1, 2, 3, 4, 5, 6, 7, 8]
+id of the edge 0
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 6,2
+end of the edge 6,18
+task_id of the edge [1013, 1025, 1014, 1026, 1015, 1027, 1016, 1028, 1017, 1029, 1018, 1030, 1019, 1031, 1020, 1032, 1021, 1033, 1022, 1034, 1023, 1035, 1024, 1036]
+available task of the edge []
+id of the edge 1
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 9,2
+end of the edge 9,18
+task_id of the edge [1037, 1049, 1038, 1050, 1039, 1051, 1040, 1052, 1041, 1053, 1042, 1054, 1043, 1055, 1044, 1056, 1045, 1057, 1046, 1058, 1047, 1059, 1048, 1060]
+available task of the edge []
+id of the edge 2
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 12,2
+end of the edge 12,18
+task_id of the edge [1061, 1073, 1062, 1074, 1063, 1075, 1064, 1076, 1065, 1077, 1066, 1078, 1067, 1079, 1068, 1080, 1069, 1081, 1070, 1082, 1071, 1083, 1072, 1084]
+available task of the edge []
+id of the edge 3
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 15,2
+end of the edge 15,18
+task_id of the edge [1085, 1096, 1086, 1097, 1087, 1098, 1088, 1099, 1089, 1100, 1090, 1101, 1091, 1102, 1092, 1103, 1093, 1104, 1094, 1105, 1095, 1106, 1107]
+available task of the edge []
+id of the edge 4
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 18,2
+end of the edge 18,18
+task_id of the edge [1108, 1120, 1109, 1121, 1110, 1122, 1111, 1123, 1112, 1124, 1113, 1125, 1114, 1126, 1115, 1127, 1116, 1128, 1117, 1129, 1118, 1130, 1119, 1131]
+available task of the edge []
+id of the edge 5
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 21,2
+end of the edge 21,18
+task_id of the edge [1132, 1144, 1133, 1145, 1134, 1146, 1135, 1147, 1136, 1148, 1137, 1149, 1138, 1150, 1139, 1151, 1140, 1152, 1141, 1153, 1142, 1154, 1143, 1156]
+available task of the edge []
+id of the edge 6
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 24,2
+end of the edge 24,18
+task_id of the edge [1157, 1169, 1158, 1170, 1159, 1171, 1160, 1172, 1161, 1173, 1162, 1174, 1163, 1175, 1164, 1176, 1165, 1177, 1166, 1178, 1167, 1179, 1168, 1180]
+available task of the edge []
+id of the edge 7
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 27,2
+end of the edge 27,18
+task_id of the edge [1181, 1193, 1182, 1194, 1183, 1195, 1184, 1196, 1185, 1197, 1186, 1198, 1187, 1199, 1188, 1200, 1189, 1201, 1190, 1202, 1191, 1203, 1192, 1204]
+available task of the edge []
+id of the edge 8
+zone id of the edge 1
+capacity of the edge 0
+start of the edge 30,2
+end of the edge 30,18
+task_id of the edge [1205, 1217, 1206, 1218, 1207, 1219, 1208, 1220, 1209, 1221, 1210, 1222, 1211, 1223, 1212, 1224, 1213, 1225, 1214, 1226, 1215, 1227, 1216, 1228]
+available task of the edge []
+1 and size False
+(200, <Event.Initialize_Layout: 10>)
+Total Outbound task till now {}
+RID: 0 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 1 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 2 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 3 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 4 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 5 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 6 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 7 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 8 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 9 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 10 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 11 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 12 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 13 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 14 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 15 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 16 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 17 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 18 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 19 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 20 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 21 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 22 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 23 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 24 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 25 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 26 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 27 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 28 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 29 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 30 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 31 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 32 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 33 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 34 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 35 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 36 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 37 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 38 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 39 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+count : 0 Length : 0 and count 0 and last count 0
+count : 1 Length : 1 and count 1 and last count 0
+Total Outbound task till now {(21, 2): [[1144, False, <geometry.Point object at 0x7f96cd0c5850>]], (9, 14): [[1057, False, <geometry.Point object at 0x7f96cd0c58e0>]]}
+RID: 0 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 1 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 2 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 3 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 4 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 5 Set Goal False Status Status.InOutboundStation current Task Task.ChargingStation
+RID: 6 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 7 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 8 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 9 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 10 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 11 Set Goal False Status Status.InOutboundStation current Task Task.ChargingStation
+RID: 12 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 13 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 14 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 15 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 16 Set Goal False Status Status.InOutboundStation current Task Task.ChargingStation
+RID: 17 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 18 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 19 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 20 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 21 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 22 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 23 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 24 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 25 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 26 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 27 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 28 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 29 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 30 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 31 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 32 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 33 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 34 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 35 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 36 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 37 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 38 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+RID: 39 Set Goal False Status Status.InOutboundStation current Task Task.ParkStation
+Total Outbound task till now {(21, 2): [[1144, False, <geometry.Point object at 0x7f96cd0c5850>]], (9, 14): [[1057, False, <geometry.Point object at 0x7f96cd0c58e0>]]}
+RID: 0 Set Goal True Status Status.Planning current Task Task.ParkStation
+RID: 1 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:7.0, yPos:21.0, theta:1.57
+(7, 21, 1)
+RID: 2 Set Goal True Status Status.Planning current Task Task.ParkStation
+RID: 3 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:10.0, yPos:21.0, theta:1.57
+(10, 21, 1)
+RID: 4 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:11.0, yPos:21.0, theta:1.57
+(11, 21, 1)
+RID: 5 Set Goal True Status Status.Planning current Task Task.ChargingStation
+RID: 6 Set Goal True Status Status.Planning current Task Task.ParkStation
+RID: 7 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:16.0, yPos:21.0, theta:1.57
+(16, 21, 1)
+RID: 8 Set Goal True Status Status.Planning current Task Task.ParkStation
+RID: 9 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:19.0, yPos:21.0, theta:1.57
+(19, 21, 1)
+RID: 10 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:20.0, yPos:21.0, theta:1.57
+(20, 21, 1)
+RID: 11 Set Goal True Status Status.Planning current Task Task.ChargingStation
+RID: 12 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:25.0, yPos:21.0, theta:1.57
+(25, 21, 1)
+RID: 13 Set Goal True Status Status.Planning current Task Task.ParkStation
+RID: 14 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:5.0, yPos:22.0, theta:1.57
+(5, 22, 1)
+RID: 15 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:7.0, yPos:22.0, theta:1.57
+(7, 22, 1)
+RID: 16 Set Goal True Status Status.Planning current Task Task.ChargingStation
+RID: 17 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:10.0, yPos:22.0, theta:1.57
+(10, 22, 1)
+RID: 18 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:11.0, yPos:22.0, theta:1.57
+(11, 22, 1)
+RID: 19 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 20 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:14.0, yPos:22.0, theta:1.57
+(14, 22, 1)
+RID: 21 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:16.0, yPos:22.0, theta:1.57
+(16, 22, 1)
+RID: 22 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 23 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:19.0, yPos:22.0, theta:1.57
+(19, 22, 1)
+RID: 24 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:20.0, yPos:22.0, theta:1.57
+(20, 22, 1)
+RID: 25 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 26 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:25.0, yPos:22.0, theta:1.57
+(25, 22, 1)
+RID: 27 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:26.0, yPos:22.0, theta:1.57
+(26, 22, 1)
+RID: 28 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 29 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:7.0, yPos:23.0, theta:1.57
+(7, 23, 1)
+RID: 30 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:8.0, yPos:23.0, theta:1.57
+(8, 23, 1)
+RID: 31 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 32 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:11.0, yPos:23.0, theta:1.57
+(11, 23, 1)
+RID: 33 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:13.0, yPos:23.0, theta:1.57
+(13, 23, 1)
+RID: 34 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 35 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:16.0, yPos:23.0, theta:1.57
+(16, 23, 1)
+RID: 36 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:17.0, yPos:23.0, theta:1.57
+(17, 23, 1)
+RID: 37 Set Goal False Status Status.InOutboundStation current Task Task.WaitForTask
+RID: 38 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:20.0, yPos:23.0, theta:1.57
+(20, 23, 1)
+RID: 39 Set Goal True Status Status.Planning current Task Task.ParkStation
+Subgoal Reached xPos:22.0, yPos:23.0, theta:1.57
+(22, 23, 1)
+0 got new plan
+1 got new plan
+2 got new plan
+3 got new plan
+4 got new plan
+5 got new plan
+6 got new plan
+7 got new plan
+8 got new plan
+9 got new plan
+10 got new plan
+11 got new plan
+12 got new plan
+13 got new plan
+14 got new plan
+15 got new plan
+16 got new plan
+17 got new plan
+18 got new plan
+20 got new plan
+21 got new plan
+23 got new plan
+24 got new plan
+26 got new plan
+27 got new plan
+29 got new plan
+30 got new plan
+32 got new plan
+33 got new plan
+35 got new plan
+36 got new plan
+38 got new plan
+39 got new plan
+Replaningg
+red
+89.99720222222223
+tan1
+79.99720222222223
+pink
+69.99720222222223
+yellow
+59.99720222222222
+seagreen1
+49.99720222222222
+gold
+39.99720222222222
+salmon1
+89.99720222222223
+plum2
+79.99720222222223
+pink
+69.99720222222223
+yellow
+59.99720222222222
+seagreen2
+49.99720222222222
+gold
+39.99720222222222
+plum1
+79.99720222222223
+pink
+69.99720222222223
+yellow
+59.99720222222222
+snow2
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+yellow
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+snow2
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+yellow
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+snow2
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+yellow
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+snow2
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+yellow
+49.99720222222222
+pink
+39.99720222222222
+yellow
+59.99720222222222
+snow2
+49.99720222222222
+Inbound station idx ======> 118
+Inbound station state ========> {118: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294710>], 218: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294440>], 154: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294110>], 254: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294080>]}
+Inbound station idx ======> 218
+Inbound station state ========> {118: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294710>], 218: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294440>], 154: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294110>], 254: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294080>]}
+Inbound station idx ======> 154
+Inbound station state ========> {118: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294710>], 218: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294440>], 154: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294110>], 254: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294080>]}
+Inbound station idx ======> 254
+Inbound station state ========> {118: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294710>], 218: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294440>], 154: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294110>], 254: [1, 0, 50.0, <Inbound_State.Free: 1>, <geometry.Point object at 0x7f96cf294080>]}

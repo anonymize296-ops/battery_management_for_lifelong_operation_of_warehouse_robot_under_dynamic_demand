@@ -1,0 +1,11 @@
+[project]
+name = "fleet-core-python-fleet-with-footprint"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "more-itertools>=11.0.2",
+    "networkx>=3.6.1",
+]
